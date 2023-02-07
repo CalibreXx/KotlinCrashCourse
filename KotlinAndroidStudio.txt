@@ -1,0 +1,26 @@
+activity is every screen
+
+maifests/AndroidManifest.xml
+	-> system uses this to decide which activity to run first
+	-> add different permissions required for application
+
+rightclick app/ add new activity
+
+drawable
+	-> different types of images used (xml, jpg, png)
+layout
+	-> xml layout files 
+
+Main_activity.kt
+	-> controller
+
+mipmap
+	-> contains different icon images for different screen size
+
+values
+	-> contains xml to hold different default values of the projects like a css has colors, strings etc
+	-> themes.xml
+
+gradle scripts 
+	-> buildgradle project level
+	-> buildgradle app level (adds plugin, dependencies
