@@ -24,3 +24,21 @@ values
 gradle scripts 
 	-> buildgradle project level
 	-> buildgradle app level (adds plugin, dependencies
+
+
+viewmodel and livedata:
+	-> save data in memory until app is killed
+
+coroutine:
+	-> multi code routines in single thread
+
+shared preferences
+	-> save data in a file
+
+Recycler view
+	-> list style UIUX
+
+Ctl+PLUS+O
+	-> view override members
+
+https://developer.android.com/jetpack/androidx/releases/lifecycle
